@@ -1,6 +1,6 @@
 # Welcome to my profile #
 
-### Few words about me 🤓 ###
+### Few words about me ###
 - I`m mobile apps developer. 📱
 - I`m working mainly in React Native. ⚛️
 - Currently I`m learing Node.js with express. 🍃
