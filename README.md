@@ -11,4 +11,4 @@
 
 ### How to contact me 📩 ###
 - przemek.sipta@gmail.com 📧
-- [Linkedin](https://www.google.com) 💼
+- [Linkedin](https://www.linkedin.com/in/przemyslaw-sipta/) 💼
