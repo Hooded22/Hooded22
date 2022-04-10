@@ -1,12 +1,13 @@
 # Welcome to my profile #
 
 ### Few words about me ###
-- I`m mobile apps developer. 📱
-- I`m working mainly in React Native. ⚛️
-- Currently I`m learing Node.js with express. 🍃
+- JavaScript Developer
+- Working in React.js and React Native. ⚛️
+- Still learing, currently Node.js with express. 🍃
 
 ### About repos ###
-- All of my repos contain things on which I`m working curretly for learn. 👨‍🎓
+- Few of them are project on which I was working on university 👨‍🎓
+- All are things which I've done to learn something new
 - Mostly of them could be not finished but still in progress 🧪
 
 ### How to contact me 📩 ###
