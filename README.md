@@ -1,15 +1,16 @@
 # Welcome to my profile #
 
 ### Few words about me ###
-- JavaScript Developer
-- Working in React.js and React Native. ⚛️
-- Still learing, currently Node.js with express. 🍃
+- JavaScript Developer 
+- React.js | React Native | Node.js. ⚛️
+- Currently working with Next.js and Umi.js 🍃
+- Using Typescript on daily basis
 
 ### About repos ###
-- Few of them are project on which I was working on university 👨‍🎓
-- All are things which I've done to learn something new
-- Mostly of them could be not finished but still in progress 🧪
+- They are sample projects made to learn or practice some technology 👨‍🎓
+- They works but are not a real word applications for user's needs
+- Most of them are still in progress, mostly because I use them as my sandobxes 🧪
 
-### How to contact me 📩 ###
+### Contact 📩 ###
 - przemek.sipta@gmail.com 📧
 - [Linkedin](https://www.linkedin.com/in/przemyslaw-sipta/) 💼
