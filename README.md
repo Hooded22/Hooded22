@@ -1,15 +1,21 @@
 # Welcome to my profile #
 
-### Few words about me ###
-- JavaScript Developer 
-- React.js | React Native | Node.js. ⚛️
-- Currently working with Next.js and Umi.js 🍃
-- Using Typescript on daily basis
+### About me ###
+- JavaScript Fullstack Developer 
+- Main technologies:
+   - React.js
+   - Node.js
+   - Next.js
+   - React Native
+   - Java
+- 4 years of commercial experience 🏢
+- Currently working with Next.js, React.js and Java 🍃
+- Currently open for part-time projects 💼
 
-### About repos ###
-- They are sample projects made to learn or practice some technology 👨‍🎓
-- They works but are not a real word applications for user's needs
-- Most of them are still in progress, mostly because I use them as my sandobxes 🧪
+### Repositories ###
+- Demo projects made during learning new technologies 👨‍🎓
+- They work but are not real-world applications for user's needs
+- Most of them are in progress because I use them as sandboxes to test new solutions 🧪
 
 ### Contact 📩 ###
 - przemek.sipta@gmail.com 📧
