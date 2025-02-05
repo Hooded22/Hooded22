@@ -2,20 +2,22 @@
 
 ### About me ###
 - JavaScript Fullstack Developer 
-- Main technologies:
+- Main stack:
    - React.js
-   - Node.js
+   - React Natvie
    - Next.js
-   - React Native
-   - Java
-- 4 years of commercial experience 🏢
-- Currently working with Next.js, React.js and Java 🍃
-- Currently open for part-time projects 💼
+   - Node.js (with express)
+   - Nest.js
+   - Java (with Spring)
+- Over 4 years of commercial experience 🏢
+- Currently working with React Native, React.js and Java 🍃
+- Open for part-time project opportunities 💼
 
-### Repositories ###
+### About repositories ###
+- Boilerplates for app development or new technology exploration 
 - Demo projects made during learning new technologies 👨‍🎓
-- They work but are not real-world applications for user's needs
-- Most of them are in progress because I use them as sandboxes to test new solutions 🧪
+- All app repositories should work, but they are not production-ready applications
+- Sandboxes to test new solutions 🧪
 
 ### Contact 📩 ###
 - przemek.sipta@gmail.com 📧
